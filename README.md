@@ -1,4 +1,4 @@
-# tsf2csv
+# TaggedSpot2CSV
 Convert Tagged Spot File (.tsf from MicroManager) to Comma Separated Values file(.csv for thunderSTORM)
 
 # usage
